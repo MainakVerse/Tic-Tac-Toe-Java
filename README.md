@@ -18,14 +18,15 @@
   <td>
    <h2>ALGORITHM</h2>
    <p>A player can achieve a perfect game in tic-tac-toe by following a specific algorithm:
-Win: If the player has two in a row, they must play the third to win2.
-Block: If the opponent has two in a row, the player must block them2.
-Fork: Create a scenario where the player has two ways to win2.
-Block the opponent's fork: If the opponent has only one possible fork, block it. Otherwise, block all forks in a way that allows the player to make two in a row2.
-Center: Take the center square if it is available2.
-Opposite corner: If the opponent is in a corner, play the opposite corner2.
-Empty corner: Play in an empty corner square2.
-Empty side: Play in a middle square on any side</p>
+    Win: If the player has two in a row, they must play the third to win.
+    Block: If the opponent has two in a row, the player must block them.
+    Fork: Create a scenario where the player has two ways to win.
+    Block the opponent's fork: If the opponent has only one possible fork, block it. Otherwise, block all forks in a way that allows the player to make two in a row.
+    Center: Take the center square if it is available.
+    Opposite corner: If the opponent is in a corner, play the opposite corner.
+    Empty corner: Play in an empty corner square.
+    Empty side: Play in a middle square on any side
+   </p>
   </td>
  </tr>
 </table>
